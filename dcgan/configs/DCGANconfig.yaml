@@ -1,0 +1,32 @@
+# DCGANconfig.yaml
+
+# Experiment Configuration
+experiment:
+  experiment_type: 'baseline'  # baseline, experiment1, etc.
+  log_directory: './logs/'  # Directory where logs will be saved
+
+# Hyperparameters
+hyperparameters:
+  batch_size: 128
+  epochs: 20
+  noise_dim: 100
+  buffer_size: 60000
+  generator_learningRate: 0.0001
+  discriminator_learningRate: 0.0001
+  generatorOptimizer: 'Adam'
+  discriminatorOptimizer: 'Adam'
+  patience: 10  # early stopping patience
+
+# Data Settings
+data:
+  buffer_size: 60000  # Buffer size for data shuffling
+  auto_tune_buffer: true
+
+# Logging and Monitoring
+logging:
+  image_save_interval: 1  # image will be saved every n epochs
+
+# Settings
+settings:
+  use_wandb: true  # enable or disable wandb integration (testing purposes)
+  IMGExampleCount: 4  # number of example images to generate on each png save

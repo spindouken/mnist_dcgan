@@ -1,0 +1,60 @@
+wandb_version: 1
+
+experiment:
+  desc: null
+  value:
+    experiment_type: baseline
+    log_directory: ./logs/
+hyperparameters:
+  desc: null
+  value:
+    batch_size: 128
+    epochs: 20
+    noise_dim: 100
+    buffer_size: 60000
+    generator_learningRate: 0.0001
+    discriminator_learningRate: 0.0001
+    generatorOptimizer: Adam
+    discriminatorOptimizer: Adam
+    patience: 10
+data:
+  desc: null
+  value:
+    buffer_size: 60000
+    auto_tune_buffer: true
+logging:
+  desc: null
+  value:
+    image_save_interval: 1
+settings:
+  desc: null
+  value:
+    use_wandb: true
+    IMGExampleCount: 4
+_wandb:
+  desc: null
+  value:
+    python_version: 3.8.10
+    cli_version: 0.15.12
+    framework: keras
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1698828084.32429
+    t:
+      1:
+      - 2
+      - 3
+      - 55
+      2:
+      - 2
+      - 3
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.8.10
+      5: 0.15.12
+      8:
+      - 5
+      13: linux-x86_64
