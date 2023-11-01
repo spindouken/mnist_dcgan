@@ -1,0 +1,119 @@
+INFO:root:Epoch 1, Avg Gen Loss: 0.7963237762451172, Avg Disc Loss: 1.138542890548706
+INFO:root:Epoch 1, Avg Gen Loss: 0.6370131969451904, Avg Disc Loss: 1.2361466884613037
+INFO:root:Epoch 1, Avg Gen Loss: 0.6211451292037964, Avg Disc Loss: 1.2702727317810059
+INFO:root:Epoch 1, Avg Gen Loss: 0.6346908807754517, Avg Disc Loss: 1.2302703857421875
+INFO:root:Epoch 2, Avg Gen Loss: 0.5895740985870361, Avg Disc Loss: 0.9723128080368042
+INFO:root:Epoch 1, Avg Gen Loss: 0.6304515600204468, Avg Disc Loss: 1.2413277626037598
+INFO:root:Epoch 1, Avg Gen Loss: 0.6210035085678101, Avg Disc Loss: 1.2511017322540283
+INFO:root:Epoch 2, Avg Gen Loss: 0.5977872610092163, Avg Disc Loss: 1.009250283241272
+INFO:root:Epoch 1, Avg Gen Loss: 0.6229286789894104, Avg Disc Loss: 1.2578458786010742
+INFO:root:Epoch 2, Avg Gen Loss: 0.5450347065925598, Avg Disc Loss: 1.0747184753417969
+INFO:root:Epoch 1, Avg Gen Loss: 0.5811201333999634, Avg Disc Loss: 1.2765562534332275
+INFO:root:Epoch 2, Avg Gen Loss: 0.509117066860199, Avg Disc Loss: 1.1459892988204956
+INFO:root:Epoch 1, Avg Gen Loss: 0.8132688403129578, Avg Disc Loss: 1.1317106485366821
+INFO:root:Epoch 2, Avg Gen Loss: 0.9567948579788208, Avg Disc Loss: 1.1571404933929443
+INFO:root:Epoch 1, Avg Gen Loss: 0.9238995313644409, Avg Disc Loss: 1.0382729768753052
+INFO:root:Epoch 2, Avg Gen Loss: 0.8795335292816162, Avg Disc Loss: 1.2016150951385498
+INFO:root:Epoch 1, Avg Gen Loss: 0.8569443821907043, Avg Disc Loss: 1.1089959144592285
+INFO:root:Epoch 2, Avg Gen Loss: 0.9787611365318298, Avg Disc Loss: 1.1297192573547363
+2023-11-01 01:18:55 [INFO] - Epoch 1, Avg Gen Loss: 0.818074107170105, Avg Disc Loss: 1.1224879026412964
+2023-11-01 01:19:32 [INFO] - Epoch 2, Avg Gen Loss: 0.9886205196380615, Avg Disc Loss: 1.1128290891647339
+2023-11-01 01:22:45 [INFO] - Epoch 1, Avg Gen Loss: 0.8605673313140869, Avg Disc Loss: 1.0752564668655396
+2023-11-01 01:23:40 [INFO] - Epoch 1, Avg Gen Loss: 0.6036033630371094, Avg Disc Loss: 1.2289764881134033
+2023-11-01 01:23:41 [INFO] - Epoch 2, Avg Gen Loss: 0.4994158148765564, Avg Disc Loss: 1.1396749019622803
+2023-11-01 01:36:04 [INFO] - Epoch 1, Avg Gen Loss: 0.644831657409668, Avg Disc Loss: 1.2526105642318726
+2023-11-01 01:36:05 [INFO] - Epoch 2, Avg Gen Loss: 0.6371356844902039, Avg Disc Loss: 1.0018398761749268
+2023-11-01 01:36:50 [INFO] - Epoch 1, Avg Gen Loss: 0.6791507005691528, Avg Disc Loss: 1.1609307527542114
+2023-11-01 01:36:51 [INFO] - Epoch 2, Avg Gen Loss: 0.7085095643997192, Avg Disc Loss: 0.8185269236564636
+2023-11-01 01:36:52 [INFO] - Epoch 3, Avg Gen Loss: 0.6267071962356567, Avg Disc Loss: 0.8199106454849243
+2023-11-01 01:36:53 [INFO] - Epoch 4, Avg Gen Loss: 0.6628126502037048, Avg Disc Loss: 0.7808151841163635
+2023-11-01 01:36:54 [INFO] - Epoch 5, Avg Gen Loss: 0.8495141863822937, Avg Disc Loss: 0.6647988557815552
+2023-11-01 01:36:55 [INFO] - Epoch 6, Avg Gen Loss: 0.8543659448623657, Avg Disc Loss: 0.7465887069702148
+2023-11-01 01:36:56 [INFO] - Epoch 7, Avg Gen Loss: 0.6208512187004089, Avg Disc Loss: 1.0419081449508667
+2023-11-01 01:36:56 [INFO] - Epoch 8, Avg Gen Loss: 0.5976538062095642, Avg Disc Loss: 1.0997687578201294
+2023-11-01 01:36:57 [INFO] - Epoch 9, Avg Gen Loss: 0.6659000515937805, Avg Disc Loss: 1.0191171169281006
+2023-11-01 01:36:58 [INFO] - Epoch 10, Avg Gen Loss: 0.8767727613449097, Avg Disc Loss: 0.786018967628479
+2023-11-01 02:08:20 [INFO] - [baseline] Epoch 1, Avg Gen Loss: 0.6563936471939087, Avg Disc Loss: 1.2026631832122803
+2023-11-01 02:08:21 [INFO] - [baseline] Epoch 2, Avg Gen Loss: 0.6565380692481995, Avg Disc Loss: 0.9285315275192261
+2023-11-01 02:08:23 [INFO] - [baseline] Epoch 3, Avg Gen Loss: 0.6217061877250671, Avg Disc Loss: 0.8711773753166199
+2023-11-01 02:08:24 [INFO] - [baseline] Epoch 4, Avg Gen Loss: 0.6592189073562622, Avg Disc Loss: 0.8283417820930481
+2023-11-01 02:08:25 [INFO] - [baseline] Epoch 5, Avg Gen Loss: 0.7986781597137451, Avg Disc Loss: 0.7408985495567322
+2023-11-01 02:08:26 [INFO] - [baseline] Epoch 6, Avg Gen Loss: 0.8741210699081421, Avg Disc Loss: 0.7260156869888306
+2023-11-01 02:08:27 [INFO] - [baseline] Epoch 7, Avg Gen Loss: 0.6819839477539062, Avg Disc Loss: 0.9258225560188293
+2023-11-01 02:08:28 [INFO] - [baseline] Epoch 8, Avg Gen Loss: 0.7459719777107239, Avg Disc Loss: 0.902680516242981
+2023-11-01 02:08:29 [INFO] - Early stopping triggered.
+2023-11-01 05:10:19 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.639218270778656, Avg Disc Loss: 1.3229424953460693
+2023-11-01 05:10:45 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6366498470306396, Avg Disc Loss: 1.383108377456665
+2023-11-01 05:10:47 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.5545545220375061, Avg Disc Loss: 1.2787363529205322
+2023-11-01 05:10:48 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.5105673670768738, Avg Disc Loss: 1.2155156135559082
+2023-11-01 05:10:48 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.4744160771369934, Avg Disc Loss: 1.2080729007720947
+2023-11-01 05:10:49 [INFO] - Experiment Type: baseline, Epoch 5, Avg Gen Loss: 0.4519384503364563, Avg Disc Loss: 1.2450042963027954
+2023-11-01 05:10:50 [INFO] - Experiment Type: baseline, Epoch 6, Avg Gen Loss: 0.4562780261039734, Avg Disc Loss: 1.2694141864776611
+2023-11-01 05:10:51 [INFO] - Experiment Type: baseline, Epoch 7, Avg Gen Loss: 0.4608538746833801, Avg Disc Loss: 1.3146650791168213
+2023-11-01 05:10:52 [INFO] - Experiment Type: baseline, Epoch 8, Avg Gen Loss: 0.4933497905731201, Avg Disc Loss: 1.2982783317565918
+2023-11-01 05:10:53 [INFO] - Experiment Type: baseline, Epoch 9, Avg Gen Loss: 0.5453150272369385, Avg Disc Loss: 1.2346954345703125
+2023-11-01 05:10:54 [INFO] - Experiment Type: baseline, Epoch 10, Avg Gen Loss: 0.6025263071060181, Avg Disc Loss: 1.1605366468429565
+2023-11-01 05:17:29 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6597787141799927, Avg Disc Loss: 1.353642463684082
+2023-11-01 05:17:30 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.6003257036209106, Avg Disc Loss: 1.225458025932312
+2023-11-01 05:17:31 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.571182131767273, Avg Disc Loss: 1.122555136680603
+2023-11-01 05:17:32 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.538769006729126, Avg Disc Loss: 1.077142596244812
+2023-11-01 05:17:33 [INFO] - Experiment Type: baseline, Epoch 5, Avg Gen Loss: 0.4858223795890808, Avg Disc Loss: 1.1204640865325928
+2023-11-01 05:17:34 [INFO] - Experiment Type: baseline, Epoch 6, Avg Gen Loss: 0.515232264995575, Avg Disc Loss: 1.0890220403671265
+2023-11-01 05:17:35 [INFO] - Experiment Type: baseline, Epoch 7, Avg Gen Loss: 0.6390374302864075, Avg Disc Loss: 0.9643505215644836
+2023-11-01 05:17:36 [INFO] - Experiment Type: baseline, Epoch 8, Avg Gen Loss: 0.63017737865448, Avg Disc Loss: 1.0061110258102417
+2023-11-01 05:17:37 [INFO] - Experiment Type: baseline, Epoch 9, Avg Gen Loss: 0.48682108521461487, Avg Disc Loss: 1.2465826272964478
+2023-11-01 05:17:38 [INFO] - Experiment Type: baseline, Epoch 10, Avg Gen Loss: 0.5044267773628235, Avg Disc Loss: 1.2693685293197632
+2023-11-01 05:17:39 [INFO] - Early stopping triggered.
+2023-11-01 05:36:13 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6444215178489685, Avg Disc Loss: 1.2152549028396606
+2023-11-01 05:36:42 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.7406546473503113, Avg Disc Loss: 1.3152871131896973
+2023-11-01 05:37:10 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.7563495635986328, Avg Disc Loss: 1.3308684825897217
+2023-11-01 05:37:42 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.7718743085861206, Avg Disc Loss: 1.3350015878677368
+2023-11-01 05:38:11 [INFO] - Experiment Type: baseline, Epoch 5, Avg Gen Loss: 0.8021873235702515, Avg Disc Loss: 1.300087332725525
+2023-11-01 05:38:39 [INFO] - Experiment Type: baseline, Epoch 6, Avg Gen Loss: 0.7606571912765503, Avg Disc Loss: 1.3438130617141724
+2023-11-01 05:39:08 [INFO] - Early stopping triggered.
+2023-11-01 05:49:23 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.5947721600532532, Avg Disc Loss: 1.4074180126190186
+2023-11-01 05:49:53 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.6742160320281982, Avg Disc Loss: 1.403050422668457
+2023-11-01 05:50:23 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.6919680833816528, Avg Disc Loss: 1.3868908882141113
+2023-11-01 05:50:52 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.7059971690177917, Avg Disc Loss: 1.3749490976333618
+2023-11-01 05:51:20 [INFO] - Experiment Type: baseline, Epoch 5, Avg Gen Loss: 0.7302354574203491, Avg Disc Loss: 1.3571232557296753
+2023-11-01 05:51:51 [INFO] - Experiment Type: baseline, Epoch 6, Avg Gen Loss: 0.7287967801094055, Avg Disc Loss: 1.3647770881652832
+2023-11-01 05:52:21 [INFO] - Experiment Type: baseline, Epoch 7, Avg Gen Loss: 0.7762218117713928, Avg Disc Loss: 1.3260278701782227
+2023-11-01 05:52:51 [INFO] - Experiment Type: baseline, Epoch 8, Avg Gen Loss: 0.8398088812828064, Avg Disc Loss: 1.2571606636047363
+2023-11-01 05:53:21 [INFO] - Experiment Type: baseline, Epoch 9, Avg Gen Loss: 0.8356807231903076, Avg Disc Loss: 1.279958963394165
+2023-11-01 05:53:54 [INFO] - Experiment Type: baseline, Epoch 10, Avg Gen Loss: 0.8428158164024353, Avg Disc Loss: 1.271592617034912
+2023-11-01 05:54:26 [INFO] - Experiment Type: baseline, Epoch 11, Avg Gen Loss: 0.868398904800415, Avg Disc Loss: 1.251235008239746
+2023-11-01 05:54:55 [INFO] - Early stopping triggered.
+2023-11-01 05:56:39 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6020567417144775, Avg Disc Loss: 1.4561995267868042
+2023-11-01 05:57:10 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.6825100183486938, Avg Disc Loss: 1.4102915525436401
+2023-11-01 05:57:39 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.6826431751251221, Avg Disc Loss: 1.397903561592102
+2023-11-01 05:58:10 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.7023667693138123, Avg Disc Loss: 1.3859076499938965
+2023-11-01 06:01:00 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6015030741691589, Avg Disc Loss: 1.4769304990768433
+2023-11-01 06:01:34 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.6783500909805298, Avg Disc Loss: 1.4028433561325073
+2023-11-01 06:02:07 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.6888188719749451, Avg Disc Loss: 1.406275987625122
+2023-11-01 06:02:39 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.6923657655715942, Avg Disc Loss: 1.3897602558135986
+2023-11-01 06:03:13 [INFO] - Experiment Type: baseline, Epoch 5, Avg Gen Loss: 0.7479866147041321, Avg Disc Loss: 1.3558048009872437
+2023-11-01 06:04:58 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6233099102973938, Avg Disc Loss: 1.3391138315200806
+2023-11-01 06:05:30 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.6831669807434082, Avg Disc Loss: 1.4045839309692383
+2023-11-01 06:06:03 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.7051090598106384, Avg Disc Loss: 1.3719125986099243
+2023-11-01 06:06:37 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.7060558199882507, Avg Disc Loss: 1.3828014135360718
+2023-11-01 06:07:09 [INFO] - Experiment Type: baseline, Epoch 5, Avg Gen Loss: 0.7274661064147949, Avg Disc Loss: 1.3665610551834106
+2023-11-01 06:07:42 [INFO] - Experiment Type: baseline, Epoch 6, Avg Gen Loss: 0.7479770183563232, Avg Disc Loss: 1.3493785858154297
+2023-11-01 06:09:55 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6681718230247498, Avg Disc Loss: 1.4091970920562744
+2023-11-01 06:11:39 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.742466151714325, Avg Disc Loss: 1.354414463043213
+2023-11-01 06:14:10 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.7641435265541077, Avg Disc Loss: 1.1809325218200684
+2023-11-01 06:14:49 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.9136401414871216, Avg Disc Loss: 1.1851518154144287
+2023-11-01 06:15:29 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.8832980990409851, Avg Disc Loss: 1.2723606824874878
+2023-11-01 06:16:09 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.8890787959098816, Avg Disc Loss: 1.247806191444397
+2023-11-01 06:17:08 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.7616633772850037, Avg Disc Loss: 0.9561291337013245
+2023-11-01 06:17:28 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.7922597527503967, Avg Disc Loss: 1.2266912460327148
+2023-11-01 06:17:48 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.8300220370292664, Avg Disc Loss: 1.272539496421814
+2023-11-01 06:18:10 [INFO] - Experiment Type: baseline, Epoch 4, Avg Gen Loss: 0.8623295426368713, Avg Disc Loss: 1.1965035200119019
+2023-11-01 06:18:30 [INFO] - Experiment Type: baseline, Epoch 5, Avg Gen Loss: 0.8481781482696533, Avg Disc Loss: 1.2428054809570312
+2023-11-01 06:18:51 [INFO] - Experiment Type: baseline, Epoch 6, Avg Gen Loss: 0.8646798133850098, Avg Disc Loss: 1.2233811616897583
+2023-11-01 06:19:11 [INFO] - Early stopping triggered.
+2023-11-01 06:25:39 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6523987054824829, Avg Disc Loss: 1.2675789594650269
+2023-11-01 06:26:16 [INFO] - Experiment Type: baseline, Epoch 2, Avg Gen Loss: 0.7710669636726379, Avg Disc Loss: 1.2875093221664429
+2023-11-01 06:26:52 [INFO] - Experiment Type: baseline, Epoch 3, Avg Gen Loss: 0.7971671223640442, Avg Disc Loss: 1.3338831663131714
+2023-11-01 02:19:48 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6655713319778442, Avg Disc Loss: 1.231156826019287
+2023-11-01 07:52:00 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6312713027000427, Avg Disc Loss: 1.262264370918274
+2023-11-01 03:44:51 [INFO] - Experiment Type: baseline, Epoch 1, Avg Gen Loss: 0.6195600628852844, Avg Disc Loss: 1.3045893907546997
