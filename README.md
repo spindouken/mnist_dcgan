@@ -1,1 +1,1 @@
-# holbertonschool-gan
+GAN PROJECT
